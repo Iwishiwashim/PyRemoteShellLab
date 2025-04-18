@@ -131,6 +131,34 @@ If this helped you learn something, feel free to ⭐ the repo or fork it!
 
 ---
 
+## 🔒 Note on Advanced Features
+
+This public version of PyRemoteShellLab has been intentionally limited to preserve ethical boundaries and ensure compliance with open-source platform guidelines. 
+
+Advanced modules such as:
+- Privilege escalation techniques
+- AV/EDR evasion logic
+- Process injection and hollowing
+- Browser credential extraction
+
+have been **removed or redacted** from this repository.
+
+> If you're an educator, student, researcher, or security professional with a legitimate reason to review the full version, feel free to reach out.
+
+📧 **Request access:**  
+Please contact me at pyremoteshelllab@proton.me with:
+- Your name and organization  
+- Your role (e.g. instructor, lab designer, infosec researcher)  
+- A brief reason for the request
+
+All requests will be considered on a case-by-case basis.
+
+---
+
+> ⚠️ Unauthorized use of advanced versions of this project for real-world exploitation is strictly prohibited. All full-featured variants are for academic and lab environments only.
+
+
+
 ## 📄 License
 
 MIT License — Free to use for educational and ethical purposes.
